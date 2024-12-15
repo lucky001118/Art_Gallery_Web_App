@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APIGateway/APIGateway.iml" filepath="$PROJECT_DIR$/APIGateway/APIGateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Art Gallery.iml" filepath="$PROJECT_DIR$/.idea/Art Gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AutheService/AutheService.iml" filepath="$PROJECT_DIR$/AutheService/AutheService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CartService/CartService.iml" filepath="$PROJECT_DIR$/CartService/CartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EditUserProfileService/EditUserProfileService.iml" filepath="$PROJECT_DIR$/EditUserProfileService/EditUserProfileService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderService/OrderService.iml" filepath="$PROJECT_DIR$/OrderService/OrderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductService/ProductService.iml" filepath="$PROJECT_DIR$/ProductService/ProductService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SellerService/SellerService.iml" filepath="$PROJECT_DIR$/SellerService/SellerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceRegistry/ServiceRegistry.iml" filepath="$PROJECT_DIR$/ServiceRegistry/ServiceRegistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransactionService/TransactionService.iml" filepath="$PROJECT_DIR$/TransactionService/TransactionService.iml" />
+    </modules>
+  </component>
+</project>

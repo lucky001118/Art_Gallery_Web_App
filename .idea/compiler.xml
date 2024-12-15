@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AutheService" />
+        <module name="EditUserProfileService" />
+        <module name="TransactionService" />
+        <module name="ProductService" />
+        <module name="CartService" />
+        <module name="APIGateway" />
+        <module name="ConfigServer" />
+        <module name="ServiceRegistry" />
+        <module name="SellerService" />
+        <module name="OrderService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="APIGateway" target="17" />
+      <module name="AutheService" target="17" />
+      <module name="CartService" target="17" />
+      <module name="ConfigServer" target="17" />
+      <module name="EditUserProfileService" target="17" />
+      <module name="OrderService" target="17" />
+      <module name="ProductService" target="17" />
+      <module name="RegisterUserServece" target="17" />
+      <module name="SellerService" target="17" />
+      <module name="ServiceRegistry" target="17" />
+      <module name="TransactionService" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="APIGateway" options="-parameters" />
+      <module name="AutheService" options="-parameters" />
+      <module name="CartService" options="-parameters" />
+      <module name="ConfigServer" options="-parameters" />
+      <module name="EditUserProfileService" options="-parameters" />
+      <module name="OrderService" options="-parameters" />
+      <module name="ProductService" options="-parameters" />
+      <module name="RegisterUserServece" options="-parameters" />
+      <module name="SellerService" options="-parameters" />
+      <module name="ServiceRegistry" options="-parameters" />
+      <module name="TransactionService" options="-parameters" />
+    </option>
+  </component>
+</project>
