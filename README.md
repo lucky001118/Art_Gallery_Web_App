@@ -164,9 +164,9 @@ We welcome contributions to improve the Art Gallery application! Here’s how yo
 
 ---
 
-## License
+## Architecture
 
-This project is licensed under the [MIT License](LICENSE).
+
 
 ---
 
@@ -175,7 +175,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any queries or support, feel free to contact:
 - **Name**: Lucky Manikpur
 - **Email**: manikpurilucky218@gmail.com
-- **GitHub**: [your-username](https://github.com/lucky001118)
+- **GitHub**: [Lucky Manikpuri](https://github.com/lucky001118)
 
 ---
 
