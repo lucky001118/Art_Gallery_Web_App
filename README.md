@@ -174,8 +174,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any queries or support, feel free to contact:
 - **Name**: Lucky Manikpur
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: manikpurilucky218@gmail.com
+- **GitHub**: [your-username](https://github.com/lucky001118)
 
 ---
 
