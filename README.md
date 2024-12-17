@@ -166,6 +166,7 @@ We welcome contributions to improve the Art Gallery application! Here’s how yo
 
 ## Architecture
 
+![Architecture Diagram](https://drive.google.com/uc?id=FILE_ID)
 
 
 ---
