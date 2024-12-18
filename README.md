@@ -168,7 +168,6 @@ We welcome contributions to improve the Art Gallery application! Here’s how yo
 
 ![Architecture Diagram]([https://drive.google.com/uc?id=FILE_ID](https://github.com/lucky001118/Art_Gallery_Web_App/blob/main/ProjectStucturalDiagram/Art_gallery_architecture.drawio.png))
 
-
 ---
 
 ## Contact
