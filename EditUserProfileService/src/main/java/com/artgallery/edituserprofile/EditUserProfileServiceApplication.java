@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class EditUserProfileServiceApplication {
 
-	//tailer mat de
+	//teler mat de
 
 	public static void main(String[] args) {
 		SpringApplication.run(EditUserProfileServiceApplication.class, args);
