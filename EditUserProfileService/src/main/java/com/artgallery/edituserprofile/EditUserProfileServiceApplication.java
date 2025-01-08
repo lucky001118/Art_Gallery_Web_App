@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EditUserProfileServiceApplication {
 
 	public static void main(String[] args) {
+		//main
 		SpringApplication.run(EditUserProfileServiceApplication.class, args);
 	}
 
